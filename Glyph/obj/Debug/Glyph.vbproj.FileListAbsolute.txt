@@ -8,3 +8,13 @@ Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\obj\Debug\Glyph.exe
 Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\obj\Debug\Glyph.xml
 Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\obj\Debug\Glyph.pdb
 Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\obj\Debug\Glyph.Form1.resources
+C:\Users\Syndicate\Desktop\Glyph\Glyph\bin\Debug\Glyph.exe.config
+C:\Users\Syndicate\Desktop\Glyph\Glyph\bin\Debug\Glyph.exe
+C:\Users\Syndicate\Desktop\Glyph\Glyph\bin\Debug\Glyph.pdb
+C:\Users\Syndicate\Desktop\Glyph\Glyph\bin\Debug\Glyph.xml
+C:\Users\Syndicate\Desktop\Glyph\Glyph\obj\Debug\Glyph.Form1.resources
+C:\Users\Syndicate\Desktop\Glyph\Glyph\obj\Debug\Glyph.Resources.resources
+C:\Users\Syndicate\Desktop\Glyph\Glyph\obj\Debug\Glyph.vbproj.GenerateResource.Cache
+C:\Users\Syndicate\Desktop\Glyph\Glyph\obj\Debug\Glyph.exe
+C:\Users\Syndicate\Desktop\Glyph\Glyph\obj\Debug\Glyph.xml
+C:\Users\Syndicate\Desktop\Glyph\Glyph\obj\Debug\Glyph.pdb
