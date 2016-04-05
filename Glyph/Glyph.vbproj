@@ -106,6 +106,7 @@
     <Compile Include="Theme Base 1.5.4.vb">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="xauth.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">

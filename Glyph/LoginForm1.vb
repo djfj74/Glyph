@@ -11,7 +11,7 @@ Public Class LoginForm1
     ' such as the username, display name, etc.
 
     Private Sub OK_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles OK.Click
-
+        xauth.authenticate(UsernameTextBox.Text, PasswordTextBox.Text)
         Me.Close()
     End Sub
 
