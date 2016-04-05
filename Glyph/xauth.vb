@@ -1,12 +1,15 @@
-﻿Module xauth
+﻿Imports System.Security.Cryptography
 
-    Function authenticate(p1 As String, p2 As String)
+Module Xauth
 
-        Dim user As String = getSHA1Hash(p1)
-        Dim pass As String = getSHA1Hash(p2)
+    Function authenticate(p1 As String, p2 As String, server As String) As String
+        Dim u As String = getSHA1Hash(p1)
+        Dim p As String = getSHA1Hash(p2)
+        Dim token As String = Nothing
 
-        Return 0
 
+
+        Return token
     End Function
 
     Function getSHA1Hash(ByVal strToHash As String) As String

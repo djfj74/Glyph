@@ -1,22 +1,10 @@
-C:\Users\Syndicate\AppData\Local\Temporary Projects\Glyph\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Syndicate\AppData\Local\Temporary Projects\Glyph\obj\Debug\Glyph.Resources.resources
-C:\Users\Syndicate\AppData\Local\Temporary Projects\Glyph\obj\Debug\Glyph.vbproj.GenerateResource.Cache
-C:\Users\Syndicate\AppData\Local\Temporary Projects\Glyph\bin\Debug\Glyph.exe
-C:\Users\Syndicate\AppData\Local\Temporary Projects\Glyph\bin\Debug\Glyph.pdb
-C:\Users\Syndicate\AppData\Local\Temporary Projects\Glyph\bin\Debug\Glyph.xml
-C:\Users\Syndicate\AppData\Local\Temporary Projects\Glyph\obj\Debug\Glyph.exe
-C:\Users\Syndicate\AppData\Local\Temporary Projects\Glyph\obj\Debug\Glyph.xml
-C:\Users\Syndicate\AppData\Local\Temporary Projects\Glyph\obj\Debug\Glyph.pdb
-C:\Users\Syndicate\AppData\Local\Temporary Projects\Glyph\obj\Debug\Glyph.Form1.resources
-C:\Users\Syndicate\AppData\Local\Temporary Projects\Glyph\obj\Debug\Glyph.LoginForm1.resources
-C:\Users\Syndicate\AppData\Local\Temporary Projects\Glyph\obj\Debug\Glyph.Form2.resources
-Z:\Documents\Visual Studio 2008\Projects\Glyph\Glyph\obj\Debug\Glyph.exe
-Z:\Documents\Visual Studio 2008\Projects\Glyph\Glyph\obj\Debug\Glyph.xml
-Z:\Documents\Visual Studio 2008\Projects\Glyph\Glyph\obj\Debug\Glyph.pdb
-Z:\Documents\Visual Studio 2008\Projects\Glyph\Glyph\bin\Debug\Glyph.exe
-Z:\Documents\Visual Studio 2008\Projects\Glyph\Glyph\bin\Debug\Glyph.pdb
-Z:\Documents\Visual Studio 2008\Projects\Glyph\Glyph\bin\Debug\Glyph.xml
-Z:\Documents\Visual Studio 2008\Projects\Glyph\Glyph\obj\Debug\Glyph.Form1.resources
-Z:\Documents\Visual Studio 2008\Projects\Glyph\Glyph\obj\Debug\Glyph.LoginForm1.resources
-Z:\Documents\Visual Studio 2008\Projects\Glyph\Glyph\obj\Debug\Glyph.Resources.resources
-Z:\Documents\Visual Studio 2008\Projects\Glyph\Glyph\obj\Debug\Glyph.vbproj.GenerateResource.Cache
+Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\bin\Debug\Glyph.exe.config
+Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\bin\Debug\Glyph.exe
+Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\bin\Debug\Glyph.pdb
+Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\bin\Debug\Glyph.xml
+Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\obj\Debug\Glyph.Resources.resources
+Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\obj\Debug\Glyph.vbproj.GenerateResource.Cache
+Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\obj\Debug\Glyph.exe
+Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\obj\Debug\Glyph.xml
+Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\obj\Debug\Glyph.pdb
+Z:\Documents\Projects\QuickRecordings\Glyph\Glyph\obj\Debug\Glyph.Form1.resources
