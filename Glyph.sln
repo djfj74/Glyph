@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Glyph", "Glyph\Glyph.vbproj", "{BBB9EE49-5137-4FDB-A1E0-91B69590B832}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Glyph", "Glyph\Glyph.vbproj", "{514CE865-780D-4B8C-81B9-006F85CE7F42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BBB9EE49-5137-4FDB-A1E0-91B69590B832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BBB9EE49-5137-4FDB-A1E0-91B69590B832}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BBB9EE49-5137-4FDB-A1E0-91B69590B832}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BBB9EE49-5137-4FDB-A1E0-91B69590B832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514CE865-780D-4B8C-81B9-006F85CE7F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514CE865-780D-4B8C-81B9-006F85CE7F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514CE865-780D-4B8C-81B9-006F85CE7F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514CE865-780D-4B8C-81B9-006F85CE7F42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
