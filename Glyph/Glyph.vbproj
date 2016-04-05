@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5E473E76-642E-4A9C-9FE1-E0A5F4356729}</ProjectGuid>
+    <ProjectGuid>{FE70C319-3767-49FB-A79C-74CBFB91A629}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <StartupObject>Glyph.My.MyApplication</StartupObject>
     <RootNamespace>Glyph</RootNamespace>
@@ -70,9 +70,6 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdobeTheme.vb">
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -95,15 +92,8 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="ThemeBase154.vb">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Xauth.vb" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
@@ -122,12 +112,6 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\glyph_logo_720x322.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\glyph-logo-v1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
