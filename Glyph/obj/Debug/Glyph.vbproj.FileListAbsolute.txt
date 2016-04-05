@@ -10,3 +10,4 @@ C:\Users\Syndicate\Desktop\Glyph\Glyph\obj\Debug\Glyph.exe
 C:\Users\Syndicate\Desktop\Glyph\Glyph\obj\Debug\Glyph.xml
 C:\Users\Syndicate\Desktop\Glyph\Glyph\obj\Debug\Glyph.pdb
 C:\Users\Syndicate\Desktop\Glyph\Glyph\obj\Debug\Glyph.vbprojResolveAssemblyReference.cache
+C:\Users\Syndicate\Desktop\Glyph\Glyph\obj\Debug\Glyph.SplashScreen1.resources

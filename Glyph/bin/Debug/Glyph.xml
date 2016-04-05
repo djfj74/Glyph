@@ -15,6 +15,14 @@ Glyph
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
+</member><member name="P:Glyph.My.Resources.Resources.glyph_logo_720x322">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Glyph.My.Resources.Resources.glyph_logo_v1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
 </member><member name="T:Glyph.My.Resources.Resources">
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
